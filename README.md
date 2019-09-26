@@ -1,6 +1,6 @@
-Merhaba!
+#Merhaba!
 
-License © 2019 - LeaderOS-Depo
+#License © 2019 - LeaderOS-Depo
 
 Bu eklenti LeaderOS için özel yapılmıştır ve hiç bir kodunun değiştirilmesine izin yoktur!
 Eklentinin yapımcısı Geik ve LeaderOS harici kimse eklentinin kodlarını değiştiremez.

@@ -1,0 +1,19 @@
+Merhaba!
+
+License © 2019 - LeaderOS-Depo
+
+Bu eklenti LeaderOS için özel yapýlmýþtýr ve hiç bir kodunun deðiþtirilmesine izin yoktur!
+Eklentinin yapýmcýsý Geik ve LeaderOS harici kimse eklentinin kodlarýný deðiþtiremez.
+
+
+Nasýl kullanýlýr?
+LeaderOS sitenizde ürün kaydýnda komutun baþýna leaderos %username% yazýnýz arýndan komutu örneðin give %p% diamond 1 Þeklinde yazýn.
+
+Tam örnek;
+  "leaderos %username% give %p% diamond 1"
+
+Eðer oyuncu offline ise otomatik olarak komutu depoya kayýt eder. Oyuncu authme ile giriþ yaptýðý zaman komutlar yazdýrýlýr.
+Depodan kimin ürünlerinin beklemede olduðunu kontrol edebilirsiniz.
+
+LeaderOS Destek ekibi
+Poyraz "Geik" Inan

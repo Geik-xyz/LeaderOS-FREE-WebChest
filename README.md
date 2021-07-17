@@ -1,6 +1,6 @@
-#Merhaba!
+# LeaderOS-FREE-WEBCHEST
 
-#License © 2019 - LeaderOS-FREE-WEBCHEST
+License © 2019 - LeaderOS-FREE-WEBCHEST
 
 This project created when i was learning java.
 
